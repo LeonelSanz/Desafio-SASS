@@ -1,0 +1,27 @@
+* {
+  background-color: black; }
+
+header {
+  background-color: rgba(255, 40, 40, 0.897); }
+  header nav {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    font-size: 25px;
+    background-color: rgba(255, 40, 40, 0.897); }
+    header nav a {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: white;
+      background-color: rgba(255, 40, 40, 0.897); }
+
+main {
+  width: 1350px;
+  height: 500px;
+  color: white;
+  text-align: center;
+  background-color: rgba(255, 40, 40, 0.897); }
+  main img {
+    width: 1000px;
+    height: 400px; }
+  main h1 {
+    color: rgba(255, 40, 40, 0.897); }
